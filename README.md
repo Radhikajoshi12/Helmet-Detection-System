@@ -14,8 +14,14 @@ A real-time Helmet Detection System using Ultralytics YOLO and OpenCV, designed 
 Download or train your YOLO model and save the weights file as:
 - helmet_model/weights/best.pt
 
+# Requirements
+
+Install dependencies using pip: 
+pip install ultralytics opencv-python
+
+
 Run the code:
 ```bash 
-python helmet_detection.py
+python live_detect.py
 
 
