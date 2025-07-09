@@ -15,6 +15,6 @@ Download or train your YOLO model and save the weights file as:
 - helmet_model/weights/best.pt
 
 Run the code:
-'''python helmet_detection.py'''
+'''bash python helmet_detection.py
 
 
