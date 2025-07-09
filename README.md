@@ -17,7 +17,7 @@ Download or train your YOLO model and save the weights file as:
 # Requirements
 
 Install dependencies using pip: 
-pip install ultralytics opencv-python
+- pip install ultralytics opencv-python
 
 
 Run the code:
